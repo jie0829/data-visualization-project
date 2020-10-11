@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Hobart",
+    "location": {
+      "lat": -42.882509,
+      "lng": 147.328123
+    },
+    "state": "TAS"
+  },
+  {
+    "name": "Cairns",
+    "location": {
+      "lat": -16.920496,
+      "lng": 145.771901
+    },
+    "state": "QLD"
+  },
+  {
+    "name": "Sydney",
+    "location": {
+      "lat": -33.854816,
+      "lng": 151.216454
+    },
+    "state": "NSW"
+  },
+  {
+    "name": "Darwin",
+    "location": {
+      "lat": -12.46044,
+      "lng": 130.841047
+    },
+    "state": "NT"
+  },
+  {
+    "name": "Canberra",
+    "location": {
+      "lat": -35.282071,
+      "lng": 149.128667
+    },
+    "state": "ACT"
+  },
+  {
+    "name": "Broken Hill",
+    "location": {
+      "lat": -31.96053,
+      "lng": 141.457904
+    },
+    "state": "NSW"
+  },
+  {
+    "name": "Perth",
+    "location": {
+      "lat": -31.952712,
+      "lng": 115.86048
+    },
+    "state": "WA"
+  },
+  {
+    "name": "Mt Isa",
+    "location": {
+      "lat": -20.72899,
+      "lng": 139.493152
+    },
+    "state": "QLD"
+  },
+  {
+    "name": "Bendigo",
+    "location": {
+      "lat": -36.758877,
+      "lng": 144.282593
+    },
+    "state": "VIC"
+  },
+  {
+    "name": "Kalgoorlie",
+    "location": {
+      "lat": -30.746414,
+      "lng": 121.473223
+    },
+    "state": "WA"
+  },
+  {
+    "name": "Launceston",
+    "location": {
+      "lat": -41.434081,
+      "lng": 147.13735
+    },
+    "state": "TAS"
+  },
+  {
+    "name": "Broome",
+    "location": {
+      "lat": -17.956691,
+      "lng": 122.224018
+    },
+    "state": "WA"
+  },
+  {
+    "name": "Adelaide",
+    "location": {
+      "lat": -34.928634,
+      "lng": 138.599888
+    },
+    "state": "SA"
+  },
+  {
+    "name": "Melbourne",
+    "location": {
+      "lat": -37.814255,
+      "lng": 144.963146
+    },
+    "state": "VIC"
+  },
+  {
+    "name": "Brisbane",
+    "location": {
+      "lat": -27.468968,
+      "lng": 153.023499
+    },
+    "state": "QLD"
+  },
+  {
+    "name": "Pt Augusta",
+    "location": {
+      "lat": -32.51754,
+      "lng": 137.84382
+    },
+    "state": "SA"
+  },
+  {
+    "name": "Alice Springs",
+    "location": {
+      "lat": -23.698388,
+      "lng": 133.881289
+    },
+    "state": "NT"
+  },
+  {
+    "name": "Rockhampton",
+    "location": {
+      "lat": -23.37825,
+      "lng": 150.513444
+    },
+    "state": "QLD"
+  },
+  {
+    "name": "Newcastle",
+    "location": {
+      "lat": -32.927288,
+      "lng": 151.781253
+    },
+    "state": "NSW"
+  },
+  {
+    "name": "Albany",
+    "location": {
+      "lat": -35.024782,
+      "lng": 117.883608
+    },
+    "state": "WA"
+  }
+]
